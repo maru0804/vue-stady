@@ -10,4 +10,5 @@ docker-compose up --build
 docker-compose exec web /bin/sh
 # VueのデフォルトApp作成
 /app # vue init webpack
+/app # npm run dev
 ~~~
