@@ -1,7 +1,7 @@
 # vue-stady
 
 学習対象サイト１
-
+https://jp.vuejs.org/v2/guide/transitions.html
 https://alterbo.jp/blog/ryu5-2106/
 
 動作確認
